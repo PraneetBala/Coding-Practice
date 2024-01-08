@@ -53,7 +53,7 @@
 - Merge K Sorted Lists
 - Remove Nth Node From End Of List
 - Reorder List
-###Matrix
+### Matrix
 - Set Matrix Zeroes
 - Spiral Matrix
 - Rotate Image
@@ -69,7 +69,7 @@
 - Longest Palindromic Substring
 - Palindromic Substrings
 - Encode and Decode Strings (Leetcode Premium)
-###Tree
+### Tree
 - Maximum Depth of Binary Tree
 - Same Tree
 - Invert/Flip Binary Tree
@@ -84,7 +84,7 @@
 - Implement Trie (Prefix Tree)
 - Add and Search Word
 - Word Search II
-###Heap
+### Heap
 - Merge K Sorted Lists
 - Top K Frequent Elements
 - Find Median from Data Stream
