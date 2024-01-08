@@ -1,5 +1,5 @@
 > [!NOTE]
-> This section will include a few tricky questions I encountered during my interview preparation.
+> This section will include a few tricky questions I encountered during my interview preparation and some materials useful in the interview process.
 
 ## Blind 75 LeetCode Questions
 ### Array
