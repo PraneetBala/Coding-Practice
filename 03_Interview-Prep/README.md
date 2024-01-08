@@ -2,31 +2,35 @@
 > This section will include a few tricky questions I encountered during my interview preparation and some materials useful in the interview process.
 
 > [!TIP]
-> ## Blind 75 LeetCode Questions
-> ### Array
-> - Two Sum
-> - Best Time to Buy and Sell Stock
-> - Contains Duplicate
-> - Product of Array Except Self
-> - Maximum Subarray
-> - Maximum Product Subarray
-> - Find Minimum in Rotated Sorted Array
-> - Search in Rotated Sorted Array
-> - 3 Sum
-> - Container With Most Water
-> ### Binary
-> - Sum of Two Integers
-> - Number of 1 Bits
-> - Counting Bits
-> - Missing Number
-> - Reverse Bits
-> ### Dynamic Programming
-> - Climbing Stairs
-> - Coin Change
-> - Longest Increasing Subsequence
-> - Longest Common Subsequence
-> - Word Break Problem
-> - Combination Sum
+> The following questions from LeetCode can help in fully preparing for coding interviews
+
+## Blind 75 LeetCode Questions
+### Array
+| Problem | Difficulty |
+| Two Sum | Easy |
+| Best Time to Buy and Sell Stock | Easy |
+| Contains Duplicate | Easy |
+| Product of Array Except Self | Easy |
+| Maximum Subarray | Easy |
+| Maximum Product Subarray | Easy |
+| Find Minimum in Rotated Sorted Array | Easy |
+| Search in Rotated Sorted Array | Easy |
+| 3 Sum | Easy |
+| Container With Most Water | Easy |
+### Binary
+| Problem | Difficulty |
+| Sum of Two Integers
+| Number of 1 Bits
+| Counting Bits
+| Missing Number
+| Reverse Bits
+### Dynamic Programming
+| Climbing Stairs
+| Coin Change
+| Longest Increasing Subsequence
+| Longest Common Subsequence
+| Word Break Problem
+ Combination Sum
 > - House Robber
 > - House Robber II
 > - Decode Ways
