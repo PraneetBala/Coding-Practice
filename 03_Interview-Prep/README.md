@@ -27,18 +27,22 @@
 | Missing Number
 | Reverse Bits
 ### Dynamic Programming
+| Problem | Difficulty |
+| ------- | :--------: |
 | Climbing Stairs
 | Coin Change
 | Longest Increasing Subsequence
 | Longest Common Subsequence
 | Word Break Problem
- Combination Sum
+| Combination Sum
 > - House Robber
 > - House Robber II
 > - Decode Ways
 > - Unique Paths
 > - Jump Game
-> ### Graph
+### Graph
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Clone Graph
 > - Course Schedule
 > - Pacific Atlantic Water Flow
@@ -47,25 +51,33 @@
 > - Alien Dictionary (Leetcode Premium)
 > - Graph Valid Tree (Leetcode Premium)
 > - Number of Connected Components in an Undirected Graph (Leetcode Premium)
-> ### Interval
+### Interval
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Insert Interval
 > - Merge Intervals
 > - Non-overlapping Intervals
 > - Meeting Rooms (Leetcode Premium)
 > - Meeting Rooms II (Leetcode Premium)
-> ### Linked List
+### Linked List
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Reverse a Linked List
 > - Detect Cycle in a Linked List
 > - Merge Two Sorted Lists
 > - Merge K Sorted Lists
 > - Remove Nth Node From End Of List
 > - Reorder List
-> ### Matrix
+### Matrix
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Set Matrix Zeroes
 > - Spiral Matrix
 > - Rotate Image
 > - Word Search
-> ### String
+### String
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Longest Substring Without Repeating Characters
 > - Longest Repeating Character Replacement
 > - Minimum Window Substring
@@ -76,7 +88,9 @@
 > - Longest Palindromic Substring
 > - Palindromic Substrings
 > - Encode and Decode Strings (Leetcode Premium)
-> ### Tree
+### Tree
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Maximum Depth of Binary Tree
 > - Same Tree
 > - Invert/Flip Binary Tree
@@ -91,7 +105,9 @@
 > - Implement Trie (Prefix Tree)
 > - Add and Search Word
 > - Word Search II
-> ### Heap
+### Heap
+| Problem | Difficulty |
+| ------- | :--------: |
 > - Merge K Sorted Lists
 > - Top K Frequent Elements
 > - Find Median from Data Stream
