@@ -58,7 +58,7 @@
 - Spiral Matrix
 - Rotate Image
 - Word Search
-- String
+### String
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
 - Minimum Window Substring
