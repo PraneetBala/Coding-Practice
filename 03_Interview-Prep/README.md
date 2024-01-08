@@ -7,6 +7,7 @@
 ## Blind 75 LeetCode Questions
 ### Array
 | Problem | Difficulty |
+| ------- | :--------: |
 | Two Sum | Easy |
 | Best Time to Buy and Sell Stock | Easy |
 | Contains Duplicate | Easy |
