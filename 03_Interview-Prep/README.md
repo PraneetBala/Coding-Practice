@@ -1,4 +1,6 @@
+:::info
 This section will include a few tricky questions I encountered during my interview preparation. 
+:::
 ## Blind 75 LeetCode Questions
 ### Array
 - Two Sum
