@@ -20,6 +20,7 @@
 | Container With Most Water | Easy |
 ### Binary
 | Problem | Difficulty |
+| ------- | :--------: |
 | Sum of Two Integers
 | Number of 1 Bits
 | Counting Bits
