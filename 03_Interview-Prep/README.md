@@ -8,7 +8,7 @@
 ### Array
 | Problem | Difficulty |
 | ------- | :--------: |
-| Two Sum | Easy |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
 | Best Time to Buy and Sell Stock | Easy |
 | Contains Duplicate | Easy |
 | Product of Array Except Self | Easy |
