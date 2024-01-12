@@ -1,5 +1,4 @@
-> [!NOTE]
-> This section will include a few tricky questions I encountered during my interview preparation and some materials useful in the interview process.
+This section will include a few tricky questions I encountered during my interview preparation and some materials useful in the interview process.
 
 > [!TIP]
 > The following questions from LeetCode can help in fully preparing for coding interviews
